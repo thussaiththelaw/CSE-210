@@ -1,0 +1,15 @@
+C:\Users\zakla\OneDrive - BYU-Idaho\Spring 2022\CSE 210\Week 1\4.1 Tic Tac Toe\obj\Debug\net6.0\4.1 Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\zakla\OneDrive - BYU-Idaho\Spring 2022\CSE 210\Week 1\4.1 Tic Tac Toe\obj\Debug\net6.0\4.1 Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakla\OneDrive - BYU-Idaho\Spring 2022\CSE 210\Week 1\4.1 Tic Tac Toe\obj\Debug\net6.0\4.1 Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\zakla\OneDrive - BYU-Idaho\Spring 2022\CSE 210\Week 1\4.1 Tic Tac Toe\obj\Debug\net6.0\4.1 Tic Tac Toe.AssemblyInfo.cs
+C:\Users\zakla\OneDrive - BYU-Idaho\Spring 2022\CSE 210\Week 1\4.1 Tic Tac Toe\obj\Debug\net6.0\4.1 Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\zakla\OneDrive - BYU-Idaho\Spring 2022\CSE 210\Week 1\4.1 Tic Tac Toe\bin\Debug\net6.0\4.1 Tic Tac Toe.exe
+C:\Users\zakla\OneDrive - BYU-Idaho\Spring 2022\CSE 210\Week 1\4.1 Tic Tac Toe\bin\Debug\net6.0\4.1 Tic Tac Toe.deps.json
+C:\Users\zakla\OneDrive - BYU-Idaho\Spring 2022\CSE 210\Week 1\4.1 Tic Tac Toe\bin\Debug\net6.0\4.1 Tic Tac Toe.runtimeconfig.json
+C:\Users\zakla\OneDrive - BYU-Idaho\Spring 2022\CSE 210\Week 1\4.1 Tic Tac Toe\bin\Debug\net6.0\4.1 Tic Tac Toe.dll
+C:\Users\zakla\OneDrive - BYU-Idaho\Spring 2022\CSE 210\Week 1\4.1 Tic Tac Toe\bin\Debug\net6.0\4.1 Tic Tac Toe.pdb
+C:\Users\zakla\OneDrive - BYU-Idaho\Spring 2022\CSE 210\Week 1\4.1 Tic Tac Toe\obj\Debug\net6.0\4.1 Tic Tac Toe.dll
+C:\Users\zakla\OneDrive - BYU-Idaho\Spring 2022\CSE 210\Week 1\4.1 Tic Tac Toe\obj\Debug\net6.0\refint\4.1 Tic Tac Toe.dll
+C:\Users\zakla\OneDrive - BYU-Idaho\Spring 2022\CSE 210\Week 1\4.1 Tic Tac Toe\obj\Debug\net6.0\4.1 Tic Tac Toe.pdb
+C:\Users\zakla\OneDrive - BYU-Idaho\Spring 2022\CSE 210\Week 1\4.1 Tic Tac Toe\obj\Debug\net6.0\4.1 Tic Tac Toe.genruntimeconfig.cache
+C:\Users\zakla\OneDrive - BYU-Idaho\Spring 2022\CSE 210\Week 1\4.1 Tic Tac Toe\obj\Debug\net6.0\ref\4.1 Tic Tac Toe.dll
